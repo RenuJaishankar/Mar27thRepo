@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+//This page is about counting
 function CountPage() {
   // Declare a new state variable, which we'll call "count"
   const [count, setCount] = useState(4);
